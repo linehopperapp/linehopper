@@ -1,0 +1,6 @@
+[submodule "linehopper-mobile"]
+	path = linehopper-mobile
+	url = http://git3.urbantech.pro/linehopper/linehopper-mobile.git
+[submodule "linehopper-backend"]
+	path = linehopper-backend
+	url = http://git3.urbantech.pro/linehopper/linehopper-backend.git
